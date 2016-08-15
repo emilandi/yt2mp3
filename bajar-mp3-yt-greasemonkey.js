@@ -28,8 +28,6 @@
             div.innerHTML = html;
             elem.appendChild(div);
         }
-        console.clear();
-        console.log(document.title);
     }
 
     document.addEventListener("mousemove", function() {
